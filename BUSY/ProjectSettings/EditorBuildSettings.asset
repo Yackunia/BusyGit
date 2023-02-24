@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UX/Scenes/Menu/Menu.unity
+    guid: 3389abb6bc7f09b46a8a2369974a2411
+  - enabled: 1
+    path: Assets/UX/Scenes/Menu/BuisnesCreate.unity
+    guid: 573e366a59fcf214f9f19c483d27b868
+  - enabled: 1
+    path: Assets/UX/Scenes/Map/MainMap.unity
+    guid: 6f348970beb10fc45989a9e3c4e8c87b
+  - enabled: 1
+    path: Assets/UX/Scenes/Testing/CoffeeTovars.unity
+    guid: 5bd8f77c3aa0b1a46acb15e7a3a96e71
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7547c2df0f0e9fd419f41caac6a77645, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9ffb95a02c9385e4da91f8f712610922, type: 2}
